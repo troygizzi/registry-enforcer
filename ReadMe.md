@@ -1,4 +1,14 @@
-﻿# Registry Enforcer
+# Registry Enforcer
+
+## Table of Contents
+
+- [Overview](#overview)
+- [App Settings](#app-settings)
+  - [Logging](#logging)
+  - [Preferences](#preferences)
+  - [Registry Settings](#registry-settings)
+- [Troubleshooting](#troubleshooting)
+  - [App exits immediately after starting](#app-exits-immediately-after-starting)
 
 ## Overview
 
